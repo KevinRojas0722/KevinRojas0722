@@ -27,7 +27,7 @@ My approach: combining a solid full-stack development foundation with data analy
 
 **Cloud (AWS):** S3 · Athena · QuickSight · Lambda · SageMaker · Bedrock
 
-**AI & ML:** Generative AI · Prompt engineering · AWS Bedrock · NLP & Computer Vision (fundamentals)
+**AI & ML:** Generative AI · Prompt engineering · Multimodal AI (text, image, audio, video) · AWS Bedrock · NLP & Computer Vision (fundamentals)
 
 **Backend & Databases:** Flask · .NET · Microsoft SQL Server
 
@@ -48,3 +48,34 @@ Full-stack web application for business inventory management, including a metric
 🔹 **Weather Data Pipeline — AWS** *(in progress)*  
 Serverless ETL pipeline for meteorological data analysis using AWS services.  
 `Python` `AWS S3` `Athena` `QuickSight`
+
+---
+
+### 📜 Certifications
+
+- AWS Educate — Machine Learning Foundations
+- AWS Educate — Cloud 101, Networking, Security, Serverless, Databases
+- Python for Data Science (IBM)
+- CCNA: Introduction to Networks (Cisco)
+- English B2 — Sitel Group
+
+---
+
+### 📚 Currently Learning
+
+- Databricks Data Engineering Associate path
+- Apache Spark fundamentals
+- AWS Certified AI Practitioner (exam preparation)
+
+---
+
+### 📫 Let's Connect
+
+<a href="https://www.linkedin.com/in/kevin-rojas-hernandez-dev"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kevin%20Rojas-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:kevinrh2000@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kevinrh2000@gmail.com-red?style=flat-square&logo=gmail"></a>
+
+---
+
+<p align="center">
+  <em>Looking for my first opportunity as a Junior Data Analyst or BI Developer</em>
+</p>
