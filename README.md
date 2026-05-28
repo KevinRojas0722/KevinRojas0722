@@ -41,7 +41,7 @@ My approach: combining a solid full-stack development foundation with data analy
 Interactive BI dashboard with real-time KPIs, dynamic filters, and exploratory data analysis.  
 `Python` `Streamlit` `Pandas` `Plotly`
 
-🔹 **[Inventory Management System](https://github.com/KevinRojas0722/inventario-app)**  
+🔹 **[Inventory Management System](https://github.com/KevinRojas0722/Inventory-Management-System)**  
 Full-stack web application for business inventory management, including a metrics dashboard and movement traceability.  
 `Python` `Flask` `SQL Server` `Bootstrap`
 
