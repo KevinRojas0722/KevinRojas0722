@@ -45,7 +45,7 @@ Interactive BI dashboard with real-time KPIs, dynamic filters, and exploratory d
 Full-stack web application for business inventory management, including a metrics dashboard and movement traceability.  
 `Python` `Flask` `SQL Server` `Bootstrap`
 
-🔹 **Weather Data Pipeline — AWS** *(in progress)*  
+🔹 **[Weather Data Pipeline](https://github.com/KevinRojas0722/weather-data-pipeline)**  
 Serverless ETL pipeline for meteorological data analysis using AWS services.  
 `Python` `AWS S3` `Athena` `QuickSight`
 
