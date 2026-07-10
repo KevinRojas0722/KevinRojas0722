@@ -49,6 +49,10 @@ Full-stack web application for business inventory management, including a metric
 Serverless ETL pipeline for meteorological data analysis using AWS services.  
 `Python` `AWS S3` `Athena` `QuickSight`
 
+🔹 **[CV Match AI](https://github.com/KevinRojas0722/cv-match-ai)**  
+RAG-powered app that scores a resume against a job posting with evidence-grounded LLM recommendations. Provider-agnostic LLM adapter (Groq/Gemini/Ollama), evaluation harness, and full test suite.  
+`Python` `FastAPI` `RAG` `ChromaDB` `sentence-transformers`
+
 ---
 
 ### 📜 Certifications
